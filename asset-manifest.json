@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Apresenta/static/css/main.aafaa2d8.css",
+    "main.js": "/Apresenta/static/js/main.ec661e25.js",
+    "static/js/453.91ea056c.chunk.js": "/Apresenta/static/js/453.91ea056c.chunk.js",
+    "static/media/python.png": "/Apresenta/static/media/python.e366ba5a0d8ebed5eff8.png",
+    "static/media/githubwhite.png": "/Apresenta/static/media/githubwhite.807cdde4d7120f5d20b7.png",
+    "static/media/node.png": "/Apresenta/static/media/node.7fab2838e18c4295607c.png",
+    "static/media/wpp.png": "/Apresenta/static/media/wpp.1d8e43b10c5d6640c378.png",
+    "static/media/c.png": "/Apresenta/static/media/c.e59d7bfc15805be89bc2.png",
+    "static/media/react.png": "/Apresenta/static/media/react.cd4ab68456d5875b788e.png",
+    "index.html": "/Apresenta/index.html",
+    "main.aafaa2d8.css.map": "/Apresenta/static/css/main.aafaa2d8.css.map",
+    "main.ec661e25.js.map": "/Apresenta/static/js/main.ec661e25.js.map",
+    "453.91ea056c.chunk.js.map": "/Apresenta/static/js/453.91ea056c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aafaa2d8.css",
+    "static/js/main.ec661e25.js"
+  ]
+}
