@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Apresenta.git/static/css/main.aafaa2d8.css",
+    "main.js": "/Apresenta.git/static/js/main.6a6c9106.js",
+    "static/js/453.91ea056c.chunk.js": "/Apresenta.git/static/js/453.91ea056c.chunk.js",
+    "static/media/python.png": "/Apresenta.git/static/media/python.e366ba5a0d8ebed5eff8.png",
+    "static/media/githubwhite.png": "/Apresenta.git/static/media/githubwhite.807cdde4d7120f5d20b7.png",
+    "static/media/node.png": "/Apresenta.git/static/media/node.7fab2838e18c4295607c.png",
+    "static/media/wpp.png": "/Apresenta.git/static/media/wpp.1d8e43b10c5d6640c378.png",
+    "static/media/c.png": "/Apresenta.git/static/media/c.e59d7bfc15805be89bc2.png",
+    "static/media/react.png": "/Apresenta.git/static/media/react.cd4ab68456d5875b788e.png",
+    "index.html": "/Apresenta.git/index.html",
+    "main.aafaa2d8.css.map": "/Apresenta.git/static/css/main.aafaa2d8.css.map",
+    "main.6a6c9106.js.map": "/Apresenta.git/static/js/main.6a6c9106.js.map",
+    "453.91ea056c.chunk.js.map": "/Apresenta.git/static/js/453.91ea056c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aafaa2d8.css",
+    "static/js/main.6a6c9106.js"
+  ]
+}
