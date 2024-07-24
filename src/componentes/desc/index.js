@@ -4,10 +4,9 @@ import styled from 'styled-components';
 const DescContainer = styled.div`
     margin: 0px;
     text-align: right;
-`
-
-const NomeContainer = styled.h3`
-    margin: 0px;
+     @media (max-width: 768px){
+        text-align: center;
+     }
 `
 
 export function DescMe(){
@@ -22,6 +21,16 @@ export function DescMe(){
         </DescContainer>
     )
 }
+
+const NomeContainer = styled.h3`
+    margin: 0px;
+    font-size: 3vw;
+    @media (max-width: 768px){
+    font-size: 5vw;
+  }
+`
+
+
 
 export function NomeAp(){
     return(

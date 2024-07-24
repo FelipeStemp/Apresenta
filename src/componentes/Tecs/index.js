@@ -8,11 +8,17 @@ const TecContainer = styled.div`
     display: flex;
     align-items:center;
     margin-left: 1vw;
+    
 `
 
 const Imagens = styled.img`
     max-height: 4vw;
     margin-left: 2vw;
+    @media (max-width: 768px){
+    margin: 10px 0px 10px 0px;
+    max-height : 10vw;
+    
+  }
 `
 
 const imagensopt = [c, python, node, react]

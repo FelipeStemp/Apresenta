@@ -4,7 +4,11 @@ import wpp from '../../img/wpp.png'
 import styled from 'styled-components'
 
 const ContatosContainer = styled.section`
-    margin-left: 22vw;
+    margin-left: 14vw;
+    @media (max-width: 768px){
+    align-items: center;
+    margin-left: 0px;
+  }
 `
 const ImagensCont = styled.img`
     max-height: 3vw;
@@ -13,6 +17,12 @@ const ImagensCont = styled.img`
     ${({ id }) => id === 'git' &&`
     border-radius: 5px;
     `}
+
+    @media (max-width: 768px){
+    align-items: center;
+    margin: 1vw 2vw;
+    max-height: 7vw;
+  }
 `
 
 function Contatos(){
